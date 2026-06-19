@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "role": "admin",
+      "id": "85b5"
+    },
+    {
+      "id": "e5e86b1c-b95a-480d-b66d-c0448dc4f5ed",
+      "username": "Riya",
+      "email": "Riya@gmail.com",
+      "password": "R@123456789",
+      "role": "user"
+    }
+  ],
+  "courses": [
+    {
+      "id": "101a",
+      "cname": "Python course for Beginners",
+      "course_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFY4Wg8d8FUljYo9WVSxFEnAChvwwSgyeQqjQxElHJA&s=10",
+      "course_fee": 30000,
+      "course_duration": "12 Weeks (Self-Paced)",
+      "course_author": "Rajesh Kumar"
+    },
+    {
+      "cname": "Enterprise Java Full-Stack Web Developer",
+      "course_image": "https://www.coursesxpert.com/wp-content/uploads/2021/01/Java-Course.jpg",
+      "course_fee": 30000,
+      "course_duration": "6 Months(Immersive)",
+      "course_author": "Keshav Sharma",
+      "id": "24ce"
+    },
+    {
+      "cname": "Full-Stack Web Development with MongoDB, Express, React, & Node",
+      "course_image": "https://tse1.mm.bing.net/th/id/OIP.kUcrjifpGcJVPD01rZFzTwHaEP?cb=ucfimg2&ucfimg=1&w=1300&h=744&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "course_fee": "35000",
+      "course_duration": "24 Weeks",
+      "course_author": "Srinivasa Rao",
+      "id": "bcde"
+    },
+    {
+      "id": "455b",
+      "cname": "Cloud DevOps Engineer: CI/CD & Infrastructure as Code",
+      "course_image": "https://media.geeksforgeeks.org/wp-content/uploads/20230410112114/DevOps.png",
+      "course_fee": "32000",
+      "course_duration": "5 months",
+      "course_author": "Kiran Deshmukh"
+    },
+    {
+      "cid": "6dc1a2c6-9600-4935-aa19-230de8fbf39b",
+      "cname": "React 19 & Next.js: The Complete Guide",
+      "course_image": "https://tse3.mm.bing.net/th/id/OIP.ALEiMvuR7IQDglvydYZSQgHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "course_fee": "3000",
+      "course_duration": "4 Weeks",
+      "course_author": "Akshay Verma",
+      "id": "1842"
+    },
+    {
+      "id": "a1e7",
+      "cname": "Advanced Java: Database Connectivity & Backend Servlets",
+      "course_image": "https://miro.medium.com/0*felyL2RTgUoIoShy.jpeg",
+      "course_fee": "4000",
+      "course_duration": "5 weeks",
+      "course_author": "Anupama Murthy"
+    },
+    {
+      "id": "82beb35e-28bf-4988-ab85-afe8aa3aafc3",
+      "cname": "Master Spring Boot 3 & Spring Framework 6",
+      "course_image": "https://www.devopsschool.com/blog/wp-content/uploads/2023/12/image-168.png",
+      "course_fee": "12000",
+      "course_duration": "6 Weeks",
+      "course_author": "Amit Patel"
+    },
+    {
+      "id": "5e41ed16-2cde-4038-9efd-668cb168742e",
+      "cname": "Angular Complete Guide: Component Architecture & State Management ",
+      "course_image": "https://logowik.com/content/uploads/images/angular-new6082.logowik.com.webp",
+      "course_fee": "8500",
+      "course_duration": "8 Weeks",
+      "course_author": "Neha Sharma"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1842",
+      "courseId": "1842",
+      "userId": "e5e86b1c-b95a-480d-b66d-c0448dc4f5ed",
+      "cid": "6dc1a2c6-9600-4935-aa19-230de8fbf39b",
+      "cname": "React 19 & Next.js: The Complete Guide",
+      "course_image": "https://tse3.mm.bing.net/th/id/OIP.ALEiMvuR7IQDglvydYZSQgHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "course_fee": "3000",
+      "course_duration": "4 Weeks",
+      "course_author": "Akshay Verma"
+    },
+    {
+      "id": "101a",
+      "courseId": "101a",
+      "userId": "e5e86b1c-b95a-480d-b66d-c0448dc4f5ed",
+      "cname": "Python course for Beginners",
+      "course_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFY4Wg8d8FUljYo9WVSxFEnAChvwwSgyeQqjQxElHJA&s=10",
+      "course_fee": 30000,
+      "course_duration": "12 Weeks (Self-Paced)",
+      "course_author": "Rajesh Kumar"
+    }
+  ]
+}
