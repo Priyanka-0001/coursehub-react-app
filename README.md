@@ -175,7 +175,7 @@ course-management-react-application/
 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/Priyanka-0001/coursehub-react-app
 ```
 
 2. Navigate to the project folder
